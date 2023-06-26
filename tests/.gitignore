@@ -1,0 +1,3 @@
+pythoncapi_compat.h
+test_pycapi_py27
+test_pycapi_py310
